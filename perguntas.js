@@ -1,24 +1,24 @@
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Programção',
+    'O que é Python?',
+    'É uma linguagem de programação'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Geografia',
+    'Qual a capital da França?',
+    'Paris'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Programação',
+    'O que é uma função?',
+    'É um bloco de código que executa uma tarefa'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Inglês',
+    'Como se diz "Oi" em inglês?',
+    'Hi / Hello'
 )
 
